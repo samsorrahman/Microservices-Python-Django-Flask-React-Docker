@@ -1,27 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="dataSourceStorageLocal" created-in="DB-231.8109.163">
-    <data-source name="admin@localhost" uuid="6439fe00-0b68-44aa-a210-13ff5abc14f2">
-      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" dbms="MYSQL" exact-version="0" />
+  <component name="dataSourceStorageLocal" created-in="DB-231.9011.35">
+    <data-source name="admin@localhost" uuid="aae36a36-9672-461e-8b96-586d1777c857">
+      <database-info product="MySQL" version="5.7.22" jdbc-version="4.2" driver-name="MySQL Connector/J" driver-version="mysql-connector-java-8.0.25 (Revision: 08be9e9b4cba6aa115f9b27b215887af40b159e0)" dbms="MYSQL" exact-version="5.7.22">
+        <extra-name-characters>#@</extra-name-characters>
+        <identifier-quote-string>`</identifier-quote-string>
+      </database-info>
+      <case-sensitivity plain-identifiers="mixed" quoted-identifiers="mixed" />
       <secret-storage>master_key</secret-storage>
       <user-name>root</user-name>
       <schema-mapping />
-    </data-source>
-    <data-source name="admin@localhost [2]" uuid="07930d56-79a9-4c36-8c73-e17877adbf93">
-      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" dbms="MYSQL" exact-version="0" />
-      <secret-storage>master_key</secret-storage>
-      <user-name>root</user-name>
-      <schema-mapping />
-    </data-source>
-    <data-source name="admin@localhost [3]" uuid="c8fa60f6-21bb-4e1c-927a-62119d7c731c">
-      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" dbms="MYSQL" exact-version="0" />
-      <secret-storage>master_key</secret-storage>
-      <user-name>root</user-name>
-      <schema-mapping>
-        <introspection-scope>
-          <node kind="schema" negative="1" />
-        </introspection-scope>
-      </schema-mapping>
     </data-source>
   </component>
 </project>
